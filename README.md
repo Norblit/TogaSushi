@@ -5,7 +5,7 @@ TogaSushi is a website and restaurant that offers users the ability to view its 
 
 **The source files contain sensitive data related to the database that is necessary for the backend system to function properly. However, I am taking steps to ensure that this data is secured before providing the full code.**
 
-**You can view the video presentation [here](https://github.com/Norblit/TogaSushi/blob/main/projVidComp.mp4) though you may have to download it**
+**You can view the video presentation [here](https://github.com/Norblit/TogaSushi/blob/main/projVidComp.mp4) though you may have to download it.**
 
 ## Tech Stack
 
